@@ -55,7 +55,7 @@ weight = 2
 
 [[menu.main]]
 name = "Actualités"
-url = "blog/"
+# url = "blog/"
 weight = 3
 
 [[menu.main]]
@@ -99,7 +99,7 @@ logo_width = "150px"
 description = "This is meta description"
 author = "Themefisher"
 # currency
-currency = "$"
+currency = "€"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 
@@ -138,4 +138,5 @@ languageCode = "fr-fr"
 contentDir = "content/french"
 weight = 1
 # copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+#copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Tout Droits Réservé 2022 Conception par Lc Digitale & Développé par Lcdigitale"
