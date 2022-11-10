@@ -1,13 +1,15 @@
 ################################### Default Configuration ############################
 baseurl = "https://demo.gethugothemes.com/vex/examplesite/"
-title = "Vex | hugo landing page template"
+title = "ExtremElectra | Location et balades en trottinettes électriques ultra performantes sur Toulouse. Xtrem-Electra, nouvelle start-up française."
 theme = "vex-hugo"
+defaultContentLanguage = "fr"
+languageCode = "fr-fr"
 # post excert
 summarylength = "20"
 # google analytics
 googleAnalytics = "" # Ex: UA-123-45
 # disable language
-disableLanguages = [] # disable language from here
+disableLanguages = ['En'] # disable language from here
 
 # unsafe html
 [markup.goldmark.renderer]
@@ -42,22 +44,22 @@ link = "https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.js"
 
 # homepage section menu
 [[menu.main]]
-name = "Home"
+name = "Acceuil"
 url = "/"
 weight = 1
 
 [[menu.main]]
-name = "Products"
+name = "Produits"
 url = "products/"
 weight = 2
 
 [[menu.main]]
-name = "Blog"
+name = "Actualités"
 url = "blog/"
 weight = 3
 
 [[menu.main]]
-name = "Review"
+name = "Nos clients"
 pre = "#"
 url = "testimonial"
 weight = 4
@@ -92,7 +94,7 @@ weight = 4
 ########################### Default parameters ##########################
 [params]
 logo = "images/logo.png"
-logo_width = "100px"
+logo_width = "150px"
 # Meta data
 description = "This is meta description"
 author = "Themefisher"
@@ -124,7 +126,7 @@ mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"                  
 languageName = "En"
 languageCode = "en-us"
 contentDir = "content/english"
-weight = 1
+weight = 2
 # copyright
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
 
@@ -134,6 +136,6 @@ copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By 
 languageName = "Fr"
 languageCode = "fr-fr"
 contentDir = "content/french"
-weight = 2
+weight = 1
 # copyright
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"

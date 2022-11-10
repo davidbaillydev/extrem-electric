@@ -1,58 +1,59 @@
 ############################# banner ############################
 banner:
   enable: true
-  title: "Believe in Technology, Make the change"
-  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima hic at, nostrum nihil!"
+  title: "Croyez en la technologie, faites la différence"
+  content: "Tous nos véhicules 2 roues électriques sont sélectionnés sur un rapport de qualité, poids, puissance et autonomie des plus rigoureux. Ceci afin de répondre à un type personnel de déplacement tant en milieu urbain qu’extra urbain.
+            Ainsi, il en est fini des embouteillages et du stress des véhicules thermiques polluants et onéreux. Voilà de quoi réaliser une économie réelle et significative. Un plaisir de conduite silencieux et confortable.!" 
   image: "images/trot.png"
   button:
     enable: true
-    label: "Browse All Products"
+    label: "Découvrez nos produits"
     link: "products/"
 
 ############################# Feature ############################
 features:
   enable: true
-  title: "Our Core Features"
-  image: "images/trot-3.png"
+  title: "Caractéristiques principales"
+  image: "images/X1.png"
 
   # feature at the left of the image
   left_side:
     # feature item loop
-    - title: "Smooth Touch"
-      icon: "tf-ion-ios-alarm-outline"
+    - title: "Qualité"
+      icon: "tf-ion-levels"
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
 
       # feature item loop
-    - title: "Elegant Design"
-      icon: "tf-ion-ios-bell-outline"
+    - title: "Batterie"
+      icon: "tf-ion-battery-full"
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
 
       # feature item loop
-    - title: "Easy Pricing"
-      icon: "tf-ion-ios-cart-outline"
+    - title: "Puissance"
+      icon: "tf-ion-flash"
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
 
   # feature at the right of the image
   right_side:
     # feature item loop
-    - title: "Smooth Touch"
-      icon: "tf-ion-ios-alarm-outline"
+    - title: "Autonomie"
+      icon: "tf-ion-clock"
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
 
       # feature item loop
-    - title: "Elegant Design"
-      icon: "tf-ion-ios-bell-outline"
+    - title: "Silencieux"
+      icon: "tf-ion-speakerphone"
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
 
       # feature item loop
-    - title: "Easy Pricing"
-      icon: "tf-ion-ios-cart-outline"
+    - title: "Cofortable"
+      icon: "tf-ion-steam"
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
 
 ############################# promo ############################
 promo:
   enable: true
-  image: "images/trot-2.png"
+  image: "images/trot-3.png"
   title: "Designed by professional , the benefit for creative gigs"
   content:
     "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore, deleniti minima
@@ -63,10 +64,10 @@ promo:
 ############################# About Product #######################
 about_product:
   enable: true
-  title: "Why Choose Apple Watch"
+  title: "Pourquoi choisir nos trottinettes"
   items:
     # about product item loop
-    - image: "images/showcase/showcase-4.png"
+    - image: "images/showcase/x-1.png"
       title: "Lorem ipsum dolor sit amet."
       content:
         "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
@@ -78,7 +79,7 @@ about_product:
         link: "#/"
 
     # about product item loop
-    - image: "images/showcase/showcase-3.png"
+    - image: "images/showcase/x-2.png"
       title: "Lorem ipsum dolor sit amet."
       content:
         "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
@@ -92,7 +93,7 @@ about_product:
 #################################### Products ########################
 products:
   enable: true
-  title: "Checkout Our All Products"
+  title: "Découvrez tous nos produits"
 
 ################################## Subscription ###################
 subscription:
