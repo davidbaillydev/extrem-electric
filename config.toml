@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseurl = "/"
+baseurl = "https://ExtremElectra.com"
 title = "ExtremElectra | Location et balades en trottinettes électriques ultra performantes sur Toulouse. Xtrem-Electra, nouvelle start-up française."
 theme = "vex-hugo"
 defaultContentLanguage = "fr"
