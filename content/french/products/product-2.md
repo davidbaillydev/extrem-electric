@@ -6,13 +6,15 @@ images:
   - "images/showcase/nami/img2.png"
   - "images/showcase/nami/img3.png"
   - "images/showcase/nami/img4.png"
+  - "images/showcase/nami/img5.png"
+  - "images/showcase/nami/img6.png"
 
 # meta description
 description : "this is meta description"
 
 # product Price
-price: "30.00"
-discount_price: "25.00"
+price: "4,490.00"
+discount_price: "3,690.00"
 
 # product variation
 colors : ["Noir","Blanc","Gris"]

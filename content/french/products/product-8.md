@@ -13,8 +13,8 @@ images:
 description : "this is meta description"
 
 # product Price
-price: "30.00"
-discount_price: "25.00"
+price: "4,490.00"
+discount_price: "3,690.00"
 
 # product variation
 colors : ["Noir","Blanc","Gris"]

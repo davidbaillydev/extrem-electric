@@ -1,65 +1,68 @@
 ############################# banner ############################
 banner:
   enable: true
-  title: "Croyez en la technologie, faites la différence"
+  title: "BURN-E Pensez technologie, faites la différence"
   content: "Tous nos véhicules 2 roues électriques sont sélectionnés sur un rapport de qualité, poids, puissance et autonomie des plus rigoureux. Ceci afin de répondre à un type personnel de déplacement tant en milieu urbain qu’extra urbain.
             Ainsi, il en est fini des embouteillages et du stress des véhicules thermiques polluants et onéreux. Voilà de quoi réaliser une économie réelle et significative. Un plaisir de conduite silencieux et confortable.!" 
-  image: "images/trot.png"
+  #image: "images/trot.png"
+  image: "images/home-1.png"
   button:
     enable: true
-    label: "Découvrez nos produits"
+    label: "Découvrez nos véhicules"
     link: "products/"
 
 ############################# Feature ############################
 features:
   enable: true
-  title: "Caractéristiques principales"
-  image: "images/X1.png"
+  title: "Prêt ! vous aurez assez d’énergie"
+  image: "images/go.png"
 
   # feature at the left of the image
   left_side:
     # feature item loop
     - title: "Qualité"
       icon: "tf-ion-levels"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+      content: "La trottinette électrique Imaginé pour les riders. Plus rapide que l’éclair."
 
       # feature item loop
     - title: "Batterie"
       icon: "tf-ion-battery-full"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+      content: "Une charge complète en 6 heures, encore plus rapide qui dit mieux !"
 
       # feature item loop
     - title: "Puissance"
       icon: "tf-ion-flash"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+      content: "Vous apprécierez les 5 modes de vitesse, la personnalisation des modes de conduite et le réglage de la puissance de chaque moteur. "
 
   # feature at the right of the image
   right_side:
     # feature item loop
     - title: "Autonomie"
       icon: "tf-ion-clock"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+      content: " Une autonomie maximale annoncée de 150km, Un trajet Toulouse - Carcassonne."
 
       # feature item loop
     - title: "Silencieux"
       icon: "tf-ion-speakerphone"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+      content: " le silence des moteurs et la souplesse de la suspension régaleront le pilote."
 
       # feature item loop
     - title: "Cofortable"
       icon: "tf-ion-steam"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+      content: "Rien de mieux qu'une suspension avec 16 niveaux de réglage, pour flotter tout le long du trajet."
+
+  
 
 ############################# promo ############################
 promo:
   enable: true
-  image: "images/trot-3.png"
-  title: "Conçu par des professionnels, le bénéfice d'un projet novateur"
+  image: "images/test.mp4"
+  title: " La Viper 2 ou Nami Burn-E 2 Conçu par des professionnels,  A vos marques, prêts ? Allez-y ! "
   content:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore, deleniti minima
-    nisi, velit atque quaerat impedit ea maxime sunt accusamus at obcaecati dolor iure iusto omnis quis eum.
+    "Pour vous garantir la sécurité, le système de pliage de la trottinette électrique a été repensé. 
+    Son profil conique renforce sa solidité en épousant parfaitement son encoche. 
     <br><br>
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol"
+    En quelques secondes, vous pouvez rouler en toute sécurité."
 
 ############################# About Product #######################
 about_product:
@@ -67,41 +70,48 @@ about_product:
   title: "Pourquoi choisir nos trottinettes"
   items:
     # about product item loop
-    - image: "images/showcase/x-1.png"
-      title: "Lorem ipsum dolor sit amet."
+    - image: "images/feu.png"
+      title: "Misez sur la trottinette électrique & Faites briller la lumière."
       content:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
-        sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
-        quas, quo harum deserunt consequatur cumque!"
+        "Celle-ci vous permettra d'utiliser les pistes cyclables nouvellement aménagées et de respecter la distantiation sociale dans vos déplacements.Faites rayonner la lumière autour de vous avec les 2000 lumens de votre éclairage avant et votre bande de lumières latérales.!"
       button:
         enable: false
         label: "Vérifier les caractéristiques"
         link: "#/"
 
     # about product item loop
-    - image: "images/showcase/x-2.png"
-      title: "Lorem ipsum dolor sit amet."
+    - image: "images/feu3.png"
+      title: "D'avantage d'Éco-mobilité & Des freins avec du mordant."
       content:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
-        sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
-        quas, quo harum deserunt consequatur cumque!"
+        "Propulsés par des moteurs électriques, ils contribuent à protéger l’environnement. Ces engins offrent aussi une ventilation naturelle. Ne produisant aucune trace de CO2, ils concourent pareillement à la santé des conducteurs et des personnes en général. Vous bénéficiez d'un système de freinage hydraulique complet avec un disque de frein de 160 mm qui permet un freinage efficace et durable dans le temps."
       button:
         enable: false
         label: "Vérifier les caractéristiques"
         link: "#/"
 
+         # about product item loop
+    - image: "images/feu4.png"
+      title: "Technologie de contrôle L'Intelligentsia."
+      content:
+        "Le contrôleur est le cerveau de votre trottinette électrique,Dotée d'une technologie de pointe, cette intelligence se compose de :!"
+      button:
+        enable: false
+        label: "Vérifier les caractéristiques"
+        link: "#/"
+
+
 #################################### Products ########################
 products:
   enable: true
-  title: "Découvrez tous nos produits"
+  title: "Découvrez tous nos véhicules"
 
 ################################## Subscription ###################
 subscription:
   enable: true
   bg_image: "images/call-to-action.jpg"
-  title: "Recevez des informations sur les produits"
-  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
-  placeholder: "Votre adresse électronique icis"
+  title: "S'abonner à notre lettre d'information"
+  content: "Recevez des informations sur nos véhicules"
+  placeholder: "Votre adresse Email ici"
 
 ############################## Testimonial ##########################
 testimonial:
@@ -109,19 +119,19 @@ testimonial:
   title: "Vos Commentaires"
   testimonial_item:
     # testimonial item loop
-    - name: "Jonathon Andrew"
-      designation: "Par, Lc Digitale"
+    - name: "Kyeran Camy"
+      designation: "15/09/2021"
       image: "images/avater.png"
-      content: "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+      content: "Avec ma copine on venez d'arriver à Toulouse pour nos études et on voulait visiter la ville pour pas trop cher ,et je vous assure que ca a été l'une des meilleur expérience qu'on est eu ! les Trott ."
 
     # testimonial item loop
-    - name: "Jonathon Andrew"
-      designation: "Par, Lc Digitale"
+    - name: "eric gozlan"
+      designation: "11/08/2021"
       image: "images/avater.png"
-      content: "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+      content: "Les trottinettes sont puissantes et agréables On a passé un super moment avec les enfants David nous à montré les points d'intérêt au centre ville et surtout promenade très agréable le long de ."
 
     # testimonial item loop
-    - name: "Jonathon Andrew"
-      designation: "Par, Lc Digitale"
+    - name: "Clara Fruchard"
+      designation: "30/07/2021"
       image: "images/avater.png"
-      content: "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+      content: "Super après-midi ! Les trottinettes sont super maniables et c'est une super façon de découvrir Toulouse, qui est une très chouette ville ! Je recommande la location de trottinette Xtrem-."

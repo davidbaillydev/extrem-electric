@@ -7,11 +7,11 @@ office:
   mobile : "+33 785 555 572"
   email : "extremelectra@gmail.com"
   location : "toulouse, Blagnac"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna"
+  content : "Appelez-nous, nous sommes là pour vous, SAV de qualité respectueux d'une philosophie verte et alternative"
 
 # opennig hour
 opennig_hour:
-  title : "Opening Hours"
+  title : "Nos Horaires"
   day_time:
     - "Lundi: Fermé"
     - "Mardi: 9:00 – 19:30"
