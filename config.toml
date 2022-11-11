@@ -72,7 +72,7 @@ weight = 5
 # footer menu
 [[menu.footer]]
 name = "Blog"
-url = "blog/"
+# url = "blog/"
 weight = 1
 
 [[menu.footer]]
