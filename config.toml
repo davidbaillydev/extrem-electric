@@ -55,7 +55,7 @@ weight = 2
 
 [[menu.main]]
 name = "Actualités"
-# url = "blog/"
+url = "blog/"
 weight = 3
 
 [[menu.main]]
@@ -65,13 +65,18 @@ url = "testimonial"
 weight = 4
 
 [[menu.main]]
+name = "Location"
+url = "location/"
+weight = 5
+
+[[menu.main]]
 name = "Contact"
 url = "contact/"
-weight = 5
+weight = 6
 
 # footer menu
 [[menu.footer]]
-name = "Blog"
+name = "Actualités"
 # url = "blog/"
 weight = 1
 

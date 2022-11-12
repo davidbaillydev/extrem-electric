@@ -82,11 +82,11 @@ a {
 }
 
 .bg-orange {
-  background: #f9a743;
+  background: #51b63d;
 }
 
 .bg-opacity {
-  position: center;
+  position: relative;
 }
 .bg-opacity:before {
   content: "";
@@ -117,7 +117,7 @@ a:active {
 }
 
 .font-size-60 {
-  font-size: 60px;
+  font-size: 56px;
   line-height: 1.2;
 }
 @media (max-width: 575px) {
@@ -155,7 +155,7 @@ a:active {
   padding-bottom: 15px;
   text-transform: capitalize;
   font-weight: 700;
-  font-size: 40px;
+  font-size: 45px;
   line-height: 40px;
 }
 .heading p {
@@ -184,12 +184,12 @@ a:active {
   font-size: 18px;
   padding: 15px 40px;
   display: inline-block;
-  background-color: #f9a743;
-  box-shadow: 0 15px 40px rgba(249, 167, 68, 0.5);
+  background-color: #51b63d;
+  box-shadow: 0 15px 40px rgba(134, 249, 68, 0.808);
   background-image: linear-gradient(bottom, rgba(255, 239, 206, 0) 0%, rgba(255, 239, 206, 0.25) 100%);
 }
 .btn-main:hover, .btn-main:focus {
-  background-color: #f9a743;
+  background-color: #51b63d;
   color: #fff;
 }
 
@@ -252,7 +252,7 @@ a:active {
 }
 
 .badge-primary {
-  background-color: #f9a743;
+  background-color: #51b63d;
 }
 
 /*--
@@ -302,7 +302,7 @@ a:active {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  background: #f9a743;
+  background: #51b63d;
   padding: 5px 10px;
   border-radius: 40px;
   width: 50px;
@@ -325,7 +325,7 @@ a:active {
   font-size: 40px;
   display: inline-block;
   margin-bottom: 20px;
-  color: #f9a743;
+  color: #51b63d;
 }
 .testimonials .testimonial-block p {
   font-family: "Droid Serif", serif;
@@ -435,7 +435,7 @@ s.price {
   height: 50px;
 }
 .form-control:focus {
-  border-color: #f9a743;
+  border-color: #51b63d;
   box-shadow: none;
 }
 .form-control::-moz-placeholder {
@@ -535,7 +535,7 @@ textarea.form-control {
   text-align: left !important;
 }
 .content blockquote {
-  border-left: 1px solid #f9a743;
+  border-left: 1px solid #51b63d;
   padding: 20px;
 }
 .content blockquote p {
@@ -554,5 +554,5 @@ textarea.form-control {
   text-decoration: none !important;
 }
 .link-title:hover {
-  color: #f9a743;
+  color: #51b63d;
 }/*# sourceMappingURL=style.css.map */

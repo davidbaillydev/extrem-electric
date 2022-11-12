@@ -3,9 +3,9 @@ title: "Contact"
 description : "this is a meta description"
 
 office:
-  title : "Extrem Electra"
+  title : "XTREME-ELECTRA"
   mobile : "+33 785 555 572"
-  email : "extremelectra@gmail.com"
+  email : "xtremelectra@gmail.com "
   location : "toulouse, Blagnac"
   content : "Appelez-nous, nous sommes là pour vous, SAV de qualité respectueux d'une philosophie verte et alternative"
 

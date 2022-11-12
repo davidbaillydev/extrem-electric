@@ -1,7 +1,7 @@
 ############################# banner ############################
 banner:
   enable: true
-  title: "BURN-E Pensez technologie, faites la différence"
+  title: "BURN-E VIPER Pensez technologie, faites la différence"
   content: "Tous nos véhicules 2 roues électriques sont sélectionnés sur un rapport de qualité, poids, puissance et autonomie des plus rigoureux. Ceci afin de répondre à un type personnel de déplacement tant en milieu urbain qu’extra urbain.
             Ainsi, il en est fini des embouteillages et du stress des véhicules thermiques polluants et onéreux. Voilà de quoi réaliser une économie réelle et significative. Un plaisir de conduite silencieux et confortable.!" 
   #image: "images/trot.png"
@@ -14,7 +14,7 @@ banner:
 ############################# Feature ############################
 features:
   enable: true
-  title: "Prêt ! vous aurez assez d’énergie"
+  title: "Prêt ! vous aurez assez d’énergie..."
   image: "images/go.png"
 
   # feature at the left of the image
@@ -57,12 +57,14 @@ features:
 promo:
   enable: true
   image: "images/test.mp4"
-  title: " La Viper 2 ou Nami Burn-E 2 Conçu par des professionnels,  A vos marques, prêts ? Allez-y ! "
+  title: " La Viper 2 ou Nami Burn-E 2 Conçu par des professionnels,  A vos marques, prêts ? Allez-y ! " 
   content:
     "Pour vous garantir la sécurité, le système de pliage de la trottinette électrique a été repensé. 
-    Son profil conique renforce sa solidité en épousant parfaitement son encoche. 
+    Son profil conique  breveter renforce sa solidité en épousant parfaitement.  
     <br><br>
-    En quelques secondes, vous pouvez rouler en toute sécurité."
+    En quelques secondes, vous pouvez rouler en toute sécurité. <br>
+    Ce mécanisme de pliage conique unique et breveté a été spécialement conçu pour pallier le manque de précision des systèmes standards, 
+    connu sur toutes les autres trottinettes électriques."
 
 ############################# About Product #######################
 about_product:
@@ -71,9 +73,10 @@ about_product:
   items:
     # about product item loop
     - image: "images/feu.png"
-      title: "Misez sur la trottinette électrique & Faites briller la lumière."
+      title: "Misez sur la trottinette électrique haut de gamme & Faites briller la lumière."
       content:
-        "Celle-ci vous permettra d'utiliser les pistes cyclables nouvellement aménagées et de respecter la distantiation sociale dans vos déplacements.Faites rayonner la lumière autour de vous avec les 2000 lumens de votre éclairage avant et votre bande de lumières latérales.!"
+        "Celle-ci vous permettra d'utiliser les pistes cyclables nouvellement aménagées et de respecter la distantiation sociale dans vos déplacements.
+        Faites briller la lumière autour de vous grâce aux 2000 lumens de votre feu avant et de vos bandes lumineuses latérales !"
       button:
         enable: false
         label: "Vérifier les caractéristiques"
@@ -83,7 +86,8 @@ about_product:
     - image: "images/feu3.png"
       title: "D'avantage d'Éco-mobilité & Des freins avec du mordant."
       content:
-        "Propulsés par des moteurs électriques, ils contribuent à protéger l’environnement. Ces engins offrent aussi une ventilation naturelle. Ne produisant aucune trace de CO2, ils concourent pareillement à la santé des conducteurs et des personnes en général. Vous bénéficiez d'un système de freinage hydraulique complet avec un disque de frein de 160 mm qui permet un freinage efficace et durable dans le temps."
+        "Propulsés par des moteurs électriques de dernière génération, ils contribuent à protéger l’environnement. Ces engins offrent aussi une ventilation naturelle. 
+        Ne produisant aucune trace de CO2, ils concourent pareillement à la santé des conducteurs et des personnes en général. Vous bénéficiez d’un système de freinage hydraulique double piston complet avec des disques de frein de 160 mm qui permet un freinage efficace et durable dans le temps."
       button:
         enable: false
         label: "Vérifier les caractéristiques"
@@ -93,7 +97,10 @@ about_product:
     - image: "images/feu4.png"
       title: "Technologie de contrôle L'Intelligentsia."
       content:
-        "Le contrôleur est le cerveau de votre trottinette électrique,Dotée d'une technologie de pointe, cette intelligence se compose de :!"
+        "Le contrôleur est le cerveau de votre trottinette électrique. Dotée d'une technologie de pointe, cette intelligence se compose de : <br><br>
+          ✔ 2x50a courant max. <br><br>
+          ✔ Conformité IP65 <br><br>
+          ✔ Connexions étanches"
       button:
         enable: false
         label: "Vérifier les caractéristiques"
@@ -135,3 +142,20 @@ testimonial:
       designation: "30/07/2021"
       image: "images/avater.png"
       content: "Super après-midi ! Les trottinettes sont super maniables et c'est une super façon de découvrir Toulouse, qui est une très chouette ville ! Je recommande la location de trottinette Xtrem-."
+
+
+
+############################# location ############################
+location:
+  enable: true
+  image: "images/test-2.mp4"
+  title: " Balade Toulouse Visite du patrimoine 65,00 €" 
+  content:
+    "Sillonnez Toulouse en trottinette électrique et découvrez, redécouvrez le patrimoine de notre ville rose d’une autre manière : ludique, éco-mobile et enrichissante!n
+Une visite patrimoniale de Toulouse en passant devant quelques uns des plus beaux monuments du centre ville.
+Un parcours vous sera proposé sous forme de plan.
+* 10 euros supplémentaires pour les commandes effectuées un jour férié
+* Supplément 10 euros par trottinette sur Toulouse et 20 euros par trottinette   hors zone pour la livraison des trottinettes en location. "
+  
+  label: "N'attendez plus !"
+  link: "/contact"
