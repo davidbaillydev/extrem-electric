@@ -77,7 +77,7 @@ weight = 6
 # footer menu
 [[menu.footer]]
 name = "Actualités"
-# url = "blog/"
+url = "blog/"
 weight = 1
 
 [[menu.footer]]
@@ -87,7 +87,7 @@ weight = 2
 
 [[menu.footer]]
 name = "Terms & Conditions"
-url = "terms-conditions/"
+# url = "terms-conditions/"
 weight = 3
 
 [[menu.footer]]
@@ -101,12 +101,14 @@ weight = 4
 logo = "images/logo.png"
 logo_width = "150px"
 # Meta data
-description = "This is meta description"
+description = "BURN-E VIPER à Blagnac Pensez technologie, faites la différence Tous nos véhicules 2 roues électriques sont sélectionnés sur un rapport de qualité, poids, puissance et autonomie des plus rigoureux."
 author = "Themefisher"
 # currency
 currency = "€"
 # contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
+contact_form_action = "https://formsubmit.co/xtremelectra@gmail.com" # contact form works with https://formsubmit.co
+# contact_form_action = "#" # contact form works with https://formspree.io 
+
 
 # Preloader
 [params.preloader]
@@ -144,4 +146,4 @@ contentDir = "content/french"
 weight = 1
 # copyright
 #copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
-copyright = "Tout Droits Réservé 2022 Conception par Lc Digitale & Développé par Lcdigitale"
+copyright = "Tout Droits Réservé XTREM-ELECTRA 2022 Propulsez par Lc Digitale web Agency  : https://lcdigitale.fr "
