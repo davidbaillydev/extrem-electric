@@ -1,7 +1,8 @@
 
 [build]
   publish = "themes/public"
-  command = "cd themes && hugo --gc --themesDir ../.."
+  command = "hugo --minify --gc"
+  # command = "cd themes && hugo --gc --themesDir ../.."
   
 [build.environment]
   HUGO_VERSION = "0.73.0"
