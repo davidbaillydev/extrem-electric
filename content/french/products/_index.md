@@ -1,6 +1,6 @@
 ---
-title: "Toutes les dernières Nouveautés intelligentes"
-description : "this is a meta description"
-draft: false
----
+title: Toutes les dernières Nouveautés intelligentes
+description: Retrouvez ici tous les modèles de trottinettes haut de gamme, performantes
+  et innovantes de la marque NAMI ELECTRIC (Burn-E, etc.).
 
+---
