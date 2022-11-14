@@ -1,5 +1,5 @@
 ---
-title: 'Nami Burn-E Viper 4200W | 8400W - 50A / 72V '
+title: Nami Burn-E Viper 4200W | 8400W - 50A / 72V 40 AH
 date: 2019-10-17T05:42:16.000+00:00
 images:
 - images/showcase/nami/img1.png
@@ -9,8 +9,8 @@ images:
 - images/showcase/nami/img5.png
 - images/showcase/nami/img6.png
 description: this is meta description
-price: '4,490.00'
-discount_price: '3,699.00'
+price: '4,950.00'
+discount_price: '5,450.00'
 colors:
 - Noir
 - Blanc
