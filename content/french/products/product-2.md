@@ -16,6 +16,7 @@ colors:
 - Blanc
 - Gris
 button_link: "#"
+draft: true
 
 ---
 XTREM-ELECTRA présente la toute dernière génération de trottinette électrique Nami Burn-E dotée de 2 moteurs d’une puissance de 4200W en crête, soit une puissance combinée de 8400W en pic.
