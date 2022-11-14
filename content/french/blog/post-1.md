@@ -6,5 +6,5 @@ description : "this is a meta description"
 draft: false
 ---
 
-XTREM-ELECTRA et le Minotaure nos deux projets toulousains vous présente la trottinette qui a joué dans le film « en même temps »avec Johnatan Cohen et Vincent Macaigne, actuellement en projection dans tous les cinémas CGR.
+XTREM-ELECTRA et le Minotaure nos deux projets toulousains vous présente la trottinette qui a joué dans le film « en même temps »avec Johnatan Cohen et Vincent Macaigne, actuellement en Replay sur Canal+.
 
