@@ -1,6 +1,6 @@
 ---
 title: 'Burn-E Nami Viper 4200W | 8400W - 50A / 72V '
-date: 2006-11-14T18:40:00+00:00
+date: 2006-11-14T06:40:00+00:00
 images:
 - images/showcase/nami/img1.png
 - images/showcase/nami/img2.png
