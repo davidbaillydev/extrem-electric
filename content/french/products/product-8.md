@@ -1,31 +1,24 @@
 ---
-title: "Nami Burn-E 4200W | 8400W - 50A / 72V "
-date: 2019-10-17T11:22:16+06:00
-images: 
-  - "images/showcase/nami/img1.png"
-  - "images/showcase/nami/img2.png"
-  - "images/showcase/nami/img3.png"
-  - "images/showcase/nami/img4.png"
-  - "images/showcase/nami/img5.png"
-  - "images/showcase/nami/img6.png"
-
-# meta description
-description : "this is meta description"
-
-# product Price
-price: "4,490.00"
-discount_price: "3,690.00"
-
-# product variation
-colors : ["Noir","Blanc","Gris"]
-#sizes : ["small","medium","large"]
-
-# button link if you don't want to use snipcart. empty link will not show button
+title: 'Nami Burn-E 4200W | 8400W - 50A / 72V '
+date: 2019-10-17T11:22:16.000+06:00
+images:
+- images/showcase/nami/img1.png
+- images/showcase/nami/img2.png
+- images/showcase/nami/img3.png
+- images/showcase/nami/img4.png
+- images/showcase/nami/img5.png
+- images/showcase/nami/img6.png
+description: this is meta description
+price: '4,490.00'
+discount_price: '3,690.00'
+colors:
+- Noir
+- Blanc
+- Gris
 button_link: "#"
+draft: true
 
-draft: false
 ---
-
 XTREM-ELECTRA présente la toute dernière génération de trottinette électrique Nami Burn-E dotée de 2 moteurs d’une puissance de 4200W en crête, soit une puissance combinée de 8400W en pic.
 
 2 contrôleurs sin wave (onde sinusoïdale) de 50A / 72V viennent contrôler le tout.
@@ -56,4 +49,4 @@ On notera par exemple les 5 modes de vitesse, la personnalisation des modes de c
 
 La Burn-E est également équipée d’un régulateur de vitesse adaptatif : il est donc possible d’activer, augmenter ou baisser sa vitesse de croisière par simple pression du pouce.
 
-Bonnes vibrations et plaisirs de conduites à tous les pilotes NAMI…. 
+Bonnes vibrations et plaisirs de conduites à tous les pilotes NAMI….
