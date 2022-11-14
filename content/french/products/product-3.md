@@ -1,6 +1,6 @@
 ---
 title: 'Kugoo Kirin X1 – Trottinette Electrique 800W | 48V '
-date: 2019-10-17T11:22:16.000+06:00
+date: 2019-10-17T05:42:16+00:00
 images:
 - images/showcase/kugo/1.jpg
 - images/showcase/kugo/2.jpg
@@ -14,7 +14,6 @@ colors:
 - Blanc
 - Gris
 button_link: "#"
-draft: true
 
 ---
 La X1 PRO 500W nominal, développant 800W en sortie grâce à sa batterie 48V 18AH, est une trottinette électrique excellente pour son prix. Elle offre un confort incroyable grâce à ses grosses roues dotées de suspensions. Pour les caractéristiques, elle possède une autonomie et une vitesse maximale comparable aux trottinettes bien plus chères. Si vous souhaitez une trottinette tout-terrain pour avoir de bonne sensations et vous déplacer partout à un prix convenable, c’est le modèle qu’il vous faut !
