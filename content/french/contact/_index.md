@@ -12,11 +12,11 @@ opennig_hour:
   title: Nos Horaires
   day_time:
   - 'Lundi: Fermé'
-  - 'Mardi: 10h00 12h30 –  14h30 19h30'
-  - 'Mercredi: 10h00 12h30 –  14h30 19h30'
-  - 'Jeudi: 10h00 12h30 –  14h30 19h30'
-  - 'Vendredi: 10h00 12h30 –  14h30 19h30'
-  - 'Saturday: 10h00 12h30 –  14h30 19h30'
+  - 'Mardi:  14h30 - 19h30'
+  - 'Mercredi: 14h30 - 19h30'
+  - 'Jeudi: 14h30 - 19h30'
+  - 'Vendredi: 14h30 - 19h30'
+  - 'Saturday: 14h30 - 19h30'
   - 'Sunday: Fermé'
 
 ---
