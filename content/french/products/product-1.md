@@ -9,8 +9,8 @@ images:
 - images/showcase/nami/img5.png
 - images/showcase/nami/img6.png
 description: this is meta description
-price: '4,950.00'
-discount_price: '5,450.00'
+price: '5,450.00'
+discount_price: '4,950.00'
 colors:
 - Noir
 - Blanc
