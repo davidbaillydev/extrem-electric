@@ -1,15 +1,14 @@
 ---
 title: 'Kugoo Kirin X1 – Trottinette Electrique 800W | 48V '
 date: 2019-10-17T11:22:16.000+06:00
-
 images:
 - images/showcase/kugo/1.jpg
 - images/showcase/kugo/2.jpg
 - images/showcase/kugo/3.jpg
 - images/showcase/kugo/4.jpg
 description: this is meta description
-price: '895.00'
-discount_price: '850.00'
+price: '950.00'
+discount_price: '880.00'
 colors:
 - Noir
 - Blanc
