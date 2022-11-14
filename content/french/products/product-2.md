@@ -1,6 +1,7 @@
 ---
 title: 'Kugoo Kirin X1 – Trottinette Electrique 800W | 48V '
-date: 2019-10-17T05:42:16+00:00
+date: 2019-10-17T11:22:16.000+06:00
+
 images:
 - images/showcase/kugo/1.jpg
 - images/showcase/kugo/2.jpg
