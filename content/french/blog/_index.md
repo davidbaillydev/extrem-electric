@@ -1,5 +1,5 @@
 ---
 title: "Notre XTREM-Actu..."
-description : "this is a meta description"
+description : "Retrouvez ici tous les modèles de trottinettes haut de gamme, performantes et innovantes."
 draft: false
 ---
