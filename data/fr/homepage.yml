@@ -145,7 +145,8 @@ testimonial:
 ############################# location ############################
 location:
   enable: true
-  image: "images/test-2.mp4"
+  # image: "images/test-2.mp4"
+  video: "images/test-2.mp4"
   title: " Balade Toulouse Visite Du Patrimoine ou de sa nature le long de la Garonne 60,00€" 
   content:
     "Sillonnez Toulouse à trottinette électrique et découvrez, redécouvrez le patrimoine de notre ville rose d’une autre manière : ludique, éco mobile et enrichissante ! Une visite patrimoniale de Toulouse en passant devant quelques-uns des plus beaux monuments du centre-ville. 
