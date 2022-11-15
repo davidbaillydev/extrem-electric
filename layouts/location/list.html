@@ -30,7 +30,7 @@
         <div class="content">
           <h2 class="subheading text-white font-weight-bold mb-10">{{ .title | markdownify }}</h2>
           <p class="text-white">{{ .content | markdownify }}</p>
-           <a href="{{ .Permalink }}" class="btn btn-main btn-main-sm">{{.label}}</a>
+           <a href="tel:{{ site.Params.phone }}" class="btn btn-main btn-main-sm">{{.label}}</a>
         </div>
       </div>
     </div>

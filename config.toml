@@ -109,6 +109,8 @@ currency = "€"
 contact_form_action = "https://formsubmit.co/xtremelectra@gmail.com" # contact form works with https://formsubmit.co
 # contact_form_action = "#" # contact form works with https://formspree.io 
 
+# contact phone
+phone = "0785555572"
 
 # Preloader
 [params.preloader]
