@@ -55,7 +55,8 @@ features:
 ############################# promo ############################
 promo:
   enable: true
-  image: "images/test.mp4"
+  # image: "images/test.mp4"
+  video: "images/test.mp4"
   title: " La Viper 2 Ou Nami Burn-E 2 Conçues Par Des Professionnels, A Vos Marques, Prêts ? Allez-Y ! " 
   content:
     "Pour vous garantir la sécurité, le système de pliage de la trottinette électrique a été repensé. Son profil conique, breveté renforce sa solidité en épousant parfaitement.  
