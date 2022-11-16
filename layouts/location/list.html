@@ -14,6 +14,8 @@
     </div>
    
   </div>
+
+
   {{ $data := index .Site.Data .Site.Language.Lang }}
 
 {{ if $data.homepage.location.enable }}
@@ -40,6 +42,35 @@
 {{ end }}
 </section>
 
+ <!--  PARTNER START  -->
+ <!-- <section id="clients" class="section-padding ">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-8 text-center">
+        <div class=" heading col-12 text-center mb-5 ">
+          <h2>ils nous font confiance </h2>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis, dignissimos?</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-lg-3 col-sm-6 col-md-3 text-center">
+        <img src="{{ .Params.Image1 | absURL }}" alt="partner" class="img-fluid">
+      </div>
+      <div class="col-lg-3 col-sm-6 col-md-3 text-center">
+        <img src="{{ .Params.Image2 | absURL }}" alt="partner" class="img-fluid">
+      </div>
+      <div class="col-lg-3 col-sm-6 col-md-3 text-center">
+        <img src="{{ .Params.Image1 | absURL }}" alt="partner" class="img-fluid">
+      </div>
+      <div class="col-lg-3 col-sm-6 col-md-3 text-center">
+        <img src="{{ .Params.Image2 | absURL }}" alt="partner" class="img-fluid">
+      </div>
+    </div>
+  </div>
+</section> -->
+<!--  PARTNER END  -->
 
 
 
