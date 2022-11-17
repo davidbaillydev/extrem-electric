@@ -120,25 +120,26 @@ subscription:
 ############################## Testimonial ##########################
 testimonial:
   enable: true
+  # bg_image: "images/paralax.jpg"
   title: "Vos Commentaires"
   testimonial_item:
     # testimonial item loop
-    - name: "Kyeran Camy"
-      designation: "15/09/2021"
+    - name: "Arnaud Costamagna"
+      designation: "il y a 1 jour"
       image: "images/avater.png"
-      content: "Avec ma copine on venez d'arriver à Toulouse pour nos études et on voulait visiter la ville pour pas trop cher ,et je vous assure que ca a été l'une des meilleur expérience qu'on est eu ! les Trott ."
+      content: "Le personnel de l'entreprise en honnête et franc Très sympathique Ils n'hésiteront a vous donnez dans conseil simple afin d'éviter de débourser des frais. je les recommandes pour l'entretien et l'achat de bon matériel"
 
     # testimonial item loop
-    - name: "eric gozlan"
-      designation: "11/08/2021"
+    - name: "Pierrick Dal grande"
+      designation: "il y a 8 mois"
       image: "images/avater.png"
-      content: "Les trottinettes sont puissantes et agréables On a passé un super moment avec les enfants David nous à montré les points d'intérêt au centre ville et surtout promenade très agréable le long de ."
+      content: "Super expérience, une équipe très professionnel et un excellent matériel.J'ai pu acheter un super matériel et j'ai vu dans leur magasin tout récemment ouvert une Cobra 4000W à 60% de pièces usine à Toulouse qui a fait le Tour de France en juillet 2020 4800 km en 3 semaines."
 
     # testimonial item loop
-    - name: "Clara Fruchard"
-      designation: "30/07/2021"
+    - name: "Etienne Gau"
+      designation: "il y a 1 jour"
       image: "images/avater.png"
-      content: "Super après-midi ! Les trottinettes sont super maniables et c'est une super façon de découvrir Toulouse, qui est une très chouette ville ! Je recommande la location de trottinette Xtrem-."
+      content: "Un lieu sympa, un esprit différent, un SAV efficace, un accueil comme on n'en fait pas nilleurs, des prix compétitifs, de la réactivité, du matos fiable et efficace. Quand on a rencontré XTREMELECTRA, on ne va plus ailleurs III."
 
 
 
