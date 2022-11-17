@@ -6,6 +6,6 @@ description = "this is meta description"
 discount_price = ""
 images = ["/uploads/climat.png", "/uploads/climar-1.png", "/uploads/climat-2.png"]
 price = "Indisponible"
-title = " Nouveau Modèle NAMI CLIMAT 60V 35AH"
+title = " Nouveau Modèle NAMI KLIMAT 60V 35AH"
 
 +++
