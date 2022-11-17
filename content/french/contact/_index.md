@@ -16,7 +16,7 @@ opennig_hour:
   - 'Mercredi: 14h30 - 19h30'
   - 'Jeudi: 14h30 - 19h30'
   - 'Vendredi: 14h30 - 19h30'
-  - 'Saturday: 14h30 - 19h30'
-  - 'Sunday: Fermé'
+  - 'Samedi: 14h30 - 19h30'
+  - 'Dimanche: Fermé'
 
 ---
