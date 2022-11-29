@@ -1,7 +1,7 @@
 +++
 date = 2019-11-29T06:22:16Z
 description = "Ce mardi 8 septembre 2020 à 9h30 un Venerquois, \"Abbsyss\", s’est attaqué au Tour de France en trottinette électrique dans but de promouvoir l’éco-mobilité. Cette trottinette homologuée développe 2000 watts par roue soit 4000 watts. Elle dispose d’une batterie de 60 volts pour 30 ampères, de freins hydrauliques et de suspension monobras. Cette trottinette, \"taillée sur mesure\", a une autonomie d’environ 100 kms"
-image = "/uploads/depart.png"
+image = "/uploads/2.png"
 title = "Venerque. Haute-Garonne : le tour de France en trottinette électrique"
 
 +++
