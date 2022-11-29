@@ -6,8 +6,6 @@ image = "/uploads/2.png"
 title = "Venerque. Haute-Garonne : le tour de France en trottinette électrique"
 
 +++
-# Vernet : tour de France en trottinette avec Abbsyss
-
 Ce mardi 8 septembre 2020 à 9h30 un Venerquois, "Abbsyss", s’est attaqué au Tour de France en trottinette électrique dans but de promouvoir l’éco-mobilité. Cette trottinette homologuée développe 2000 watts par roue soit 4000 watts. Elle dispose d’une batterie de 60 volts pour 30 ampères, de freins hydrauliques et de suspension monobras. Cette trottinette, "taillée sur mesure", a une autonomie d’environ 100 kms
 
 Le départ s’est effectué de la Mairie de Venerque pour une boucle de près de 3500 kms sur nos belles routes de France afin de mettre en avant notre patrimoine et nos campagnes et dans l’objectif de développer l’écotourisme, une aventure électrique, prémices d’un tour du monde qui s’engagera dès la fin de l’année.
