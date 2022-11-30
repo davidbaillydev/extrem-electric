@@ -14,6 +14,4 @@ Notre pilote espère boucler son tour de France en environ 40 jours.
 
 Une belle aventure humaine, mais aussi un beau challenge sportif
 
-L'aventure n'était pas simple et la pratique s'est révélée bien plus complexe que la théorie. Abbsyss était parti pour faire un circuit de 3 600 km et a finalement parcouru 4 380 km. Les défis ont été nombreux à relever : le chargement de la trottinette avec son chargeur, des vêtements, une tente soit un poids de 105 kg avec le pilote, mais aussi trouver des bornes de rechargement adaptées, des points de restauration et d'hébergement qui correspondent à l'autonomie de la trottinette, affronter les intempéries qui ont été nombreuses, les pannes d'énergies et même un ensablement à
-
-Mimizan.
+L'aventure n'était pas simple et la pratique s'est révélée bien plus complexe que la théorie. Abbsyss était parti pour faire un circuit de 3 600 km et a finalement parcouru 4 380 km. Les défis ont été nombreux à relever : le chargement de la trottinette avec son chargeur, des vêtements, une tente soit un poids de 105 kg avec le pilote, mais aussi trouver des bornes de rechargement adaptées, des points de restauration et d'hébergement qui correspondent à l'autonomie de la trottinette, affronter les intempéries qui ont été nombreuses, les pannes d'énergies et même un ensablement à Mimizan.
