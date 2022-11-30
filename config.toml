@@ -54,9 +54,11 @@ url = "products/"
 weight = 2
 
 [[menu.main]]
-name = "Actualités"
-url = "blog/"
+name = "Location"
+url = "location/"
 weight = 3
+
+
 
 [[menu.main]]
 name = "Nos clients"
@@ -65,8 +67,8 @@ url = "testimonial"
 weight = 4
 
 [[menu.main]]
-name = "Location"
-url = "location/"
+name = "Actualités"
+url = "blog/"
 weight = 5
 
 [[menu.main]]
