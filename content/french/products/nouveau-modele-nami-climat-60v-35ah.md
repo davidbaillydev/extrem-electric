@@ -6,7 +6,7 @@ description = "this is meta description"
 discount_price = ""
 images = ["/uploads/climat.png", "/uploads/climar-1.png", "/uploads/climat-2.png"]
 price = "Disponible à l’essai en vente le 1er trimestre 2023 "
-title = " Nouveau Modèle NAMI KLIMA 60V 35AH"
+title = "NAMI KLIMA 60V 35AH"
 
 +++
 ( PAIEMENTS PAR CRÉDIT DE LENBOX EN X4 ou X10 ) EN BOUTIQUE
