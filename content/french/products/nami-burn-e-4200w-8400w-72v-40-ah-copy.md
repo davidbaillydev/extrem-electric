@@ -3,11 +3,11 @@ button_link = "#"
 colors = ["Noir", "Blanc", "Gris"]
 date = 2019-10-17T05:42:16Z
 description = "this is meta description"
-discount_price = "4,950.00"
+discount_price = ""
 draft = true
 images = ["images/showcase/nami/img1.png", "images/showcase/nami/img2.png", "images/showcase/nami/img3.png", "images/showcase/nami/img4.png", "images/showcase/nami/img5.png", "images/showcase/nami/img6.png"]
-price = "5,450.00"
-title = "Nami Burn-E 4200W | 8400W 72V 40 AH-(copy)"
+price = " Essai possible à tout moment et livraison courant 1er trimestre 2023 "
+title = "NAMI BURN E MAX 72V 40AH"
 
 +++
 XTREM-ELECTRA présente la toute dernière génération de trottinette électrique Nami Burn-E dotée de 2 moteurs d’une puissance de 4200W en crête, soit une puissance combinée de 8400W en pic.
