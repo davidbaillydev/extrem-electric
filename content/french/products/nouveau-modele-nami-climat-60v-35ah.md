@@ -9,4 +9,6 @@ price = "Disponible à l’essai en vente le 1er trimestre 2023 "
 title = "Nami Klima 60V 35AH"
 
 +++
-( PAIEMENTS PAR CRÉDIT DE LENBOX EN X4 ou X10 ) EN BOUTIQUE
+( PAIEMENTS PAR CRÉDIT LENBOX EN X4 ou X10 ) EN BOUTIQUE OU PAR MAIL 
+
+![](/uploads/sans-titre-6.png)
