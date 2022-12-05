@@ -11,4 +11,6 @@ title = " Nami Klima 60V 20AH"
 +++
 ### Essai et livraison courant 1er trimestre  2023
 
-( PAIEMENTS PAR CRÉDIT DE LENBOX EN X4 ou X10 ) EN BOUTIQUE
+( PAIEMENTS PAR CRÉDIT LENBOX EN X4 ou X10 ) EN BOUTIQUE OU PAR MAIL 
+
+![](/uploads/sans-titre-6.png)
