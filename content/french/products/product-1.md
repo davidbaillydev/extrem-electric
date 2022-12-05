@@ -24,8 +24,6 @@ XTREM-ELECTRA présente la toute dernière génération de trottinette électriq
 
 Cette conception permet à cette Nami de délivrer un couple incroyable, et une vitesse maximale sur circuit privé dépassant les 100 km/h !
 
- 
-
 Côté autonomie la Nami Burn-E est équipée d’une batterie 72V 40Ah, composée de cellules LG/Panasonic/Samsung.
 
 L’autonomie maximale annoncée par le constructeur est de 150km, mais nous pouvons raisonnablement nous baser sur une autonomie de 120km dans le cadre d’une utilisation normale.
@@ -38,8 +36,6 @@ Ce mécanisme de pliage conique unique sur notre planète  breveté a été spé
 
 Sa conception a également l’avantage d’apporter plus de légèreté, car cette Burn-E ne pèse que 47kg (soit 21kg de moins que la Dualtron X2 pour une puissance équivalente).
 
- 
-
 On apprécie également son écran, ou plutôt tableau de bord à affichage intelligent.
 
 Cet écran est pratique, large, étanche et dispose de fonctions intelligentes.
@@ -49,3 +45,5 @@ On notera par exemple les 5 modes de vitesse, la personnalisation des modes de c
 La Burn-E est également équipée d’un régulateur de vitesse adaptatif : il est donc possible d’activer, augmenter ou baisser sa vitesse de croisière par simple pression du pouce.
 
 Bonnes vibrations et plaisirs de conduites à tous les pilotes NAMI….
+
+( PAIEMENTS PAR CRÉDIT LENBOX EN X4 ou X10 ) EN BOUTIQUE
