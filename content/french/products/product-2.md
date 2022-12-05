@@ -7,7 +7,7 @@ images:
 - images/showcase/kugo/3.jpg
 - images/showcase/kugo/4.jpg
 - images/showcase/kugo/5.jpg
-description: this is meta description
+description : Financement lenbox en 4X ou 10X"
 price: '950.00'
 discount_price: 880.00 T.T.C.
 colors:

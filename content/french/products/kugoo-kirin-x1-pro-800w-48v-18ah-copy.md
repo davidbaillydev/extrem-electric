@@ -2,7 +2,7 @@
 button_link = "#"
 colors = []
 date = 2019-10-17T05:17:16Z
-description = "this is meta description"
+description = "Financement lenbox en 4X ou 10X"
 discount_price = "995 T.T.C."
 images = ["/uploads/velo-1.png", "/uploads/velo-2.png", "/uploads/velo-3.png"]
 price = "1250€"

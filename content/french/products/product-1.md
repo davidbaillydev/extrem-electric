@@ -8,7 +8,7 @@ images:
 - images/showcase/nami/img4.png
 - images/showcase/nami/img5.png
 - images/showcase/nami/img6.png
-description: this is meta description
+description : Financement lenbox en 4X ou 10X"
 price: '5,450.00'
 discount_price: 4,950.00 T.T.C.
 colors:
