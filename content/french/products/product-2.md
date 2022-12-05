@@ -21,3 +21,5 @@ La X1 PRO 500W nominal, développant 800W en sortie grâce à sa batterie 48V 18
 Possibilité de payer en plusieurs fois X4 à X10!
 Livrable en 7 jours*.
 10 euros supplémentaires pour les livraisons effectuées un jour férié
+
+( PAIEMENTS PAR CRÉDIT DE LENBOX EN X4 ou X10 ) EN BOUTIQUE
