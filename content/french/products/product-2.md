@@ -1,6 +1,6 @@
 ---
 title: 'Kugoo Kirin X1 PRO 800W 48V 18AH '
-date: 2019-10-17T05:17:16+00:00
+date: 2019-10-17T05:17:16.000+00:00
 images:
 - images/showcase/kugo/1.jpg
 - images/showcase/kugo/2.jpg
@@ -9,7 +9,7 @@ images:
 - images/showcase/kugo/5.jpg
 description: this is meta description
 price: '950.00'
-discount_price: '880.00'
+discount_price: 880.00 T.T.C.
 colors:
 - Noir
 - Blanc
