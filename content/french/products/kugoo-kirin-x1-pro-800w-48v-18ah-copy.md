@@ -1,6 +1,6 @@
 +++
 button_link = "#"
-colors = ["Noir", "Blanc", "Gris"]
+colors = []
 date = 2019-10-17T05:17:16Z
 description = "this is meta description"
 discount_price = "880.00"
