@@ -13,3 +13,5 @@ Prix spécial Noël, super vélo électrique performant de très bonne qualité 
 
 * SAV français de qualité unique en France en 24, 48 h.
 * Garantie 1 an moteur et batterie.
+
+( PAIEMENTS PAR CRÉDIT DE LENBOX EN X4 ou X10 ) EN BOUTIQUE
