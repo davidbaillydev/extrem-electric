@@ -1,5 +1,5 @@
 ---
-title: Nami Burn-e 4200W | 8400W 72V 40 AH
+title: Nami Burn-E 2 Max | 8400W 72V 40 AH
 date: 2019-10-17T05:42:16.000+00:00
 images:
 - images/showcase/nami/img1.png
