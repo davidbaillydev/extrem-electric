@@ -3,9 +3,9 @@ button_link = "#"
 colors = []
 date = 2019-10-17T05:17:16Z
 description = "this is meta description"
-discount_price = "880.00"
+discount_price = ""
 images = ["/uploads/velo-1.png", "/uploads/velo-2.png", "/uploads/velo-3.png"]
-price = "950.00"
+price = "Indisponible"
 title = "Vélo électrique cadeaux NOËL 2022"
 
 +++
