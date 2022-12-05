@@ -6,9 +6,11 @@ description = ""
 discount_price = ""
 images = ["/uploads/nami1.png", "/uploads/nami-1.png", "/uploads/nami-2.png", "/uploads/nami-4.png", "/uploads/nami-5.png"]
 price = "3395 T.T.C."
-title = "NAMI BLAST 60V 28AH"
+title = "Nami Blast 60V 28AH"
 
 +++
 ### Essai et livraison début janvier
 
-( CRÉDIT LENBOX PAIEMENTS EN X4 ou X10) EN MAGASIN
+( PAIEMENTS PAR CRÉDIT LENBOX EN X4 ou X10 ) EN BOUTIQUE OU PAR MAIL 
+
+![](/uploads/sans-titre-6.png)
