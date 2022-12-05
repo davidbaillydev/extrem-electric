@@ -10,3 +10,4 @@ price = " Essai possible à tout moment et livraison courant 1er trimestre 2023 
 title = "NAMI BURN E MAX 72V 40AH"
 
 +++
+( PAIEMENTS PAR CRÉDIT LENBOX EN X4 ou X10 ) EN BOUTIQUE
