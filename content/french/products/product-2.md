@@ -22,4 +22,6 @@ Possibilité de payer en plusieurs fois X4 à X10!
 Livrable en 7 jours*.
 10 euros supplémentaires pour les livraisons effectuées un jour férié
 
-( PAIEMENTS PAR CRÉDIT DE LENBOX EN X4 ou X10 ) EN BOUTIQUE
+( PAIEMENTS PAR CRÉDIT LENBOX EN X4 ou X10 ) EN BOUTIQUE OU PAR MAIL 
+
+![](/uploads/sans-titre-6.png)
