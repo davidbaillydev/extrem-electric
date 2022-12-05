@@ -9,4 +9,6 @@ price = "3795 T.T.C."
 title = "NAMI BLAST MAX 60V  35AH "
 
 +++
-( CRÉDIT LENBOX PAIEMENTS EN X4 ou X10) EN MAGASIN
+ ( PAIEMENTS PAR CRÉDIT LENBOX EN X4 ou X10 ) EN BOUTIQUE OU PAR MAIL 
+
+![](/uploads/sans-titre-6.png)
