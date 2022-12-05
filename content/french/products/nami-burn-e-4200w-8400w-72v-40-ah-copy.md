@@ -4,6 +4,7 @@ colors = ["Noir", "Blanc", "Gris"]
 date = 2019-10-17T05:42:16Z
 description = "this is meta description"
 discount_price = ""
+draft = true
 images = ["images/showcase/nami/img1.png", "images/showcase/nami/img2.png", "images/showcase/nami/img3.png", "images/showcase/nami/img4.png", "images/showcase/nami/img5.png", "images/showcase/nami/img6.png"]
 price = " Essai possible à tout moment  livraison courant 1er trimestre 2023 "
 title = "Nami Burn-e 2 Max"
