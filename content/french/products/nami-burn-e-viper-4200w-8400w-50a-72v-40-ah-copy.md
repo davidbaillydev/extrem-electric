@@ -5,7 +5,7 @@ date = 2019-10-17T05:19:00Z
 description = "this is meta description"
 discount_price = ""
 images = ["/uploads/nami1.png", "/uploads/nami-1.png", "/uploads/nami-2.png", "/uploads/nami-4.png", "/uploads/nami-5.png"]
-price = "3795"
+price = "3795 TTC"
 title = "NAMI BLAST MAX 60V  35AH "
 
 +++
