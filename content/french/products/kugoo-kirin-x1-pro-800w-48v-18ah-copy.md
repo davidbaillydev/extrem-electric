@@ -5,7 +5,7 @@ date = 2019-10-17T05:17:16Z
 description = "this is meta description"
 discount_price = "880.00"
 draft = true
-images = ["images/showcase/kugo/1.jpg", "images/showcase/kugo/2.jpg", "images/showcase/kugo/3.jpg", "images/showcase/kugo/4.jpg", "images/showcase/kugo/5.jpg"]
+images = []
 price = "950.00"
 title = "Vélo électrique cadeaux NOËL 2022"
 
