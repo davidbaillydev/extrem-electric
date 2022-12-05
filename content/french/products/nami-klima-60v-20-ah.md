@@ -6,7 +6,7 @@ description = "this is meta description"
 discount_price = ""
 images = ["/uploads/climat.png", "/uploads/climar-1.png", "/uploads/climat-2.png"]
 price = "2850 T.T.C."
-title = " NAMI KLIMA 60V 20 AH"
+title = " Nami Klima 60V 20AH"
 
 +++
 ### Essai et livraison courant 1er trimestre  2023
