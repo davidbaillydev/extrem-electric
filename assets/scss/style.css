@@ -82,7 +82,7 @@ a {
 }
 
 .bg-orange {
-  background: #51b63d;
+  background: #0399FF;
 }
 
 .bg-opacity {
@@ -184,12 +184,12 @@ a:active {
   font-size: 18px;
   padding: 15px 40px;
   display: inline-block;
-  background-color: #51b63d;
-  box-shadow: 0 15px 40px rgba(134, 249, 68, 0.808);
+  background-color: #0399FF;
+  box-shadow: 0 15px 40px rgba(68, 189, 249, 0.808);
   background-image: linear-gradient(bottom, rgba(255, 239, 206, 0) 0%, rgba(255, 239, 206, 0.25) 100%);
 }
 .btn-main:hover, .btn-main:focus {
-  background-color: #51b63d;
+  background-color: #0399FF;
   color: #fff;
 }
 
@@ -252,7 +252,7 @@ a:active {
 }
 
 .badge-primary {
-  background-color: #51b63d;
+  background-color: #0399FF;
 }
 
 /*--
@@ -302,7 +302,7 @@ a:active {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  background: #51b63d;
+  background: #0399FF;
   padding: 5px 10px;
   border-radius: 40px;
   width: 50px;
@@ -325,7 +325,7 @@ a:active {
   font-size: 40px;
   display: inline-block;
   margin-bottom: 20px;
-  color: #51b63d;
+  color: #0399FF;
 }
 .testimonials .testimonial-block p {
   font-family: "Droid Serif", serif;
@@ -435,7 +435,7 @@ s.price {
   height: 50px;
 }
 .form-control:focus {
-  border-color: #51b63d;
+  border-color: #0399FF;
   box-shadow: none;
 }
 .form-control::-moz-placeholder {
@@ -466,6 +466,9 @@ textarea.form-control {
   position: sticky;
   top: 80px;
 }
+.product-image-slider img:hover { /* IE 9 */ /* Safari 3-8 */
+  transform: scale(1.5);
+}
 .product-image-slider .slick-list {
   margin-bottom: 10px;
   border-radius: 5px;
@@ -492,6 +495,7 @@ textarea.form-control {
   max-height: 80px;
   height: auto;
   max-width: 100%;
+  transition: transform 0.8s; /* Animation */
 }
 
 /* content style */
@@ -535,7 +539,7 @@ textarea.form-control {
   text-align: left !important;
 }
 .content blockquote {
-  border-left: 1px solid #51b63d;
+  border-left: 1px solid #0399FF;
   padding: 20px;
 }
 .content blockquote p {
@@ -554,5 +558,5 @@ textarea.form-control {
   text-decoration: none !important;
 }
 .link-title:hover {
-  color: #51b63d;
+  color: #0399FF;
 }/*# sourceMappingURL=style.css.map */

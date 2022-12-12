@@ -21,6 +21,23 @@
   {{ $styles := resources.Get "scss/style.scss" | toCSS | minify }}
   <link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
 
+  {{ "  <!-- Bootstrap CSS --> " | safeHTML }}
+  <!-- {{ $styles := resources.Get "scss/bootstrap.min.css" | toCSS | minify }}
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css"> -->
+
+  {{ "<!--  Lunar CSS -->" | safeHTML }}
+  {{ $styles := resources.Get "scss/lunar.scss" | toCSS | minify }}
+  <link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
+
+   <!-- Fonts -->
+   {{ "<!--  Lunar CSS -->" | safeHTML }}
+  {{ $styles := resources.Get "css/animate.min.css" | toCSS | minify }}
+  <link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
+
+   <link href="https://fonts.googleapis.com/css?family=Work+Sans:600" rel="stylesheet">
+   <link href="https://fonts.googleapis.com/css?family=Overpass:300,400,600,700,800,900" rel="stylesheet">
+
+
   {{ "<!--Favicon-->" | safeHTML }}
   <link rel="shortcut icon" href="{{ `images/favicon.png` | absURL }} " type="image/x-icon">
   <link rel="icon" href="{{ `images/favicon.png` | absURL }} " type="image/x-icon">
