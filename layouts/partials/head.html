@@ -4,7 +4,6 @@
 
   {{ "<!-- mobile responsive meta -->" | safeHTML }}
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <!-- <meta name="viewport" content="user-scalable=yes, initial-scale=1, maximum-scale=2, minimum-scale=0.5, width=device-width, height=device-height, target-densitydpi=device-dpi" /> -->
   <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}">
   {{ with site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
   {{ hugo.Generator }}
@@ -22,8 +21,8 @@
   <link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
 
   {{ "  <!-- Bootstrap CSS --> " | safeHTML }}
-  <!-- {{ $styles := resources.Get "scss/bootstrap.min.css" | toCSS | minify }}
-  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css"> -->
+  {{ $styles := resources.Get "scss/bootstrap.min.css" | toCSS | minify }}
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
 
   {{ "<!--  Lunar CSS -->" | safeHTML }}
   {{ $styles := resources.Get "scss/lunar.scss" | toCSS | minify }}
