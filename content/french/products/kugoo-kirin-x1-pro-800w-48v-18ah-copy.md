@@ -18,4 +18,4 @@ Prix spécial Noël🎁🎄, super vélo électrique performant de très bonne q
 
 ![](/uploads/sans-titre-6.png)
 
-[Télécharger la réglementation](/uploads/img-7429.jpg)
+### [Télécharger la réglementation](/uploads/img-7429.jpg)
